@@ -6,7 +6,7 @@
 🚀 Turning ideas into **production-ready software**  
 🧠 Focused on **clean architecture, performance, scalability & intelligent systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Intern+%40+SynergyLabs;Building+Imagine.bo;AI+%7C+ML+%7C+Web+Engineering;React+%7C+TypeScript+%7C+Node.js" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=BTech(CSE)+Student;Full+Stack+Developer;Software+Engineering+Intern+%40+SynergyLabs;Building+Imagine.bo;AI+%7C+ML+%7C+Web+Engineering;React+%7C+TypeScript+%7C+Node.js" />
 
 </div>
 
