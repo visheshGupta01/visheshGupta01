@@ -6,17 +6,30 @@
 🚀 Turning ideas into **production-ready software**  
 🧠 Focused on **clean architecture, performance & scalability**
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Go;Building+Real+World+Products;Learning+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Intern+%40+SynergyLabs;Building+Imagine.bo;React+%7C+TypeScript+%7C+Go;Shipping+Real+World+Products" />
 
 </div>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Engineering student with strong hands-on dev experience  
-- 💻 Build real apps, not tutorial clones  
-- ⚙️ Love backend logic, systems & clean APIs  
-- 🔥 Slightly obsessed with refactoring until it feels *right*
+- 🎓 Engineering student with strong hands-on development experience  
+- 💻 Build **real-world, production-ready apps**  
+- ⚙️ Enjoy backend logic, system design & scalable APIs  
+- 🔥 Constantly improving code quality and architecture  
+
+---
+
+## 🚀 Ongoing Internship
+### 💼 Software Engineering Intern — **SynergyLabs**
+**🛠️ Product:** *Imagine.bo*
+
+- Building and scaling **Imagine.bo**, a real-world production platform  
+- Working on **full-stack features** using modern tech  
+- Focus on **performance, clean architecture & reliability**  
+- Collaborating in a **startup-style, fast-shipping environment**
+
+> *Learning how real software is built, shipped, and improved in production.*
 
 ---
 
@@ -35,11 +48,11 @@
 
 ---
 
-## 🛠️ Currently Working On
-- 🚀 Production-ready full-stack apps  
-- 🧠 AI-powered tools & automation  
-- 🏗️ Backend design & scalable systems  
-- 📈 Improving DSA & system design fundamentals  
+## 🛠️ What I’m Working On
+- 🚀 Building **Imagine.bo** at SynergyLabs  
+- 🧠 AI-assisted tools & automation  
+- 🏗️ Backend architecture & system design  
+- 📈 Writing cleaner, scalable production code  
 
 ---
 
@@ -72,7 +85,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=visheshGupta01&theme=tokyo-night&hide_border=true" />
@@ -81,9 +94,9 @@
 
 ---
 
-## 🧲 Developer Mindset
+## 🧲 Developer Philosophy
 - Clean code > clever hacks  
-- Shipping > overthinking  
+- Shipping > perfection  
 - Systems > shortcuts  
 - Learning > ego  
 
@@ -91,7 +104,8 @@
 
 ## 📬 Connect With Me
 - 🐙 GitHub: https://github.com/visheshGupta01  
-- 💼 LinkedIn: *(add link)*  
+- 🌐 Product: **Imagine.bo** https://app.imagine.bo 
+- 💼 LinkedIn: https://www.linkedin.com/in/vishesh-gupta-2a9636210
 
 ---
 
@@ -99,9 +113,9 @@
 
 ### ⚠️ Profile Notice
 This account may contain  
-**late-night commits**, **over-engineered solutions**, and  
-**code that somehow works better after refactoring** 😌
+**production bugs**, **late-night commits**, and  
+**features shipped faster than planned** 😌  
 
-⭐ If you like clean code — you’re already in the right place.
+⭐ If you value real-world engineering — welcome.
 
 </div>
