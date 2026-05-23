@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Vishesh  
-### Full-Stack Developer • Engineering Student • Software Engineering Intern  
+### Full-Stack Developer • Engineering Student 
 
 🚀 Turning ideas into **production-ready software**  
 🧠 Focused on **clean architecture, performance, scalability & intelligent systems**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Ongoing Internship
+## 🚀 Past Internship
 ### 💼 Software Engineering Intern — **SynergyLabs**
 **🛠️ Product:** <a href="https://app.imagine.bo"><b>Imagine.bo</b></a>
 
@@ -63,7 +63,6 @@
 ---
 
 ## 🛠️ What I’m Working On
-- 🚀 Building <a href="https://app.imagine.bo"><b>Imagine.bo</b></a> at SynergyLabs  
 - 🤖 Applying **AI/ML** to real-world product features  
 - ⚡ Cloud-backed apps using **Firebase**  
 - 🏗️ Backend architecture & API design  
@@ -110,7 +109,6 @@
 
 ## 📬 Connect With Me
 - 🐙 GitHub: https://github.com/visheshGupta01  
-- 🌐 Product: https://app.imagine.bo  
 - 💼 LinkedIn: https://www.linkedin.com/in/vishesh-gupta-2a9636210  
 
 ---
