@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Past Internship
-### 💼 Software Engineering Intern — **SynergyLabs**
+### 💼 Gen-AI Intern — **SynergyLabs**
 **🛠️ Product:** <a href="https://app.imagine.bo"><b>Imagine.bo</b></a>
 
 - Building and scaling <a href="https://app.imagine.bo"><b>Imagine.bo</b></a>, a real-world production platform  
