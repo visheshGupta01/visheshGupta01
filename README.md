@@ -1,125 +1,98 @@
-<div align="center">
+# 👋 Hi, I'm Vishesh Gupta
 
-# 👋 Hey, I'm Vishesh  
-### Full-Stack Developer • Engineering Student 
+### Full Stack Developer | AI/ML Enthusiast | B.Tech CSE Student
 
-🚀 Turning ideas into **production-ready software**  
-🧠 Focused on **clean architecture, performance, scalability & intelligent systems**
+I'm a Computer Science student at UPES with experience in Full Stack Development, Machine Learning, and Generative AI.
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=BTech(CSE)+Student;Full+Stack+Developer;Software+Engineering+Intern+%40+SynergyLabs;Building+Imagine.bo;AI+%7C+ML+%7C+Web+Engineering;React+%7C+TypeScript+%7C+Node.js" />
+Over the past year, I worked as a GenAI Intern at SynergyLabs, contributing to the development of Imagine.bo, where I worked on frontend development, backend integrations, real-time communication systems, and AI-powered features.
 
-</div>
+I'm particularly interested in:
 
----
-
-## 🧠 About Me
-- 🎓 Engineering student with hands-on industry experience  
-- 💻 **Full-stack developer** building real, production-grade applications  
-- 🤖 Exploring **AI & Machine Learning** for practical use cases  
-- ⚙️ Comfortable across frontend, backend, databases, cloud & deployment  
-- 🔥 Constantly improving architecture, performance & code quality  
+* Full Stack Development
+* Machine Learning & Deep Learning
+* Generative AI Applications
+* Computer Vision
+* Building real-world software products
 
 ---
 
-## 🚀 Past Internship
-### 💼 Gen-AI Intern — **SynergyLabs**
-**🛠️ Product:** <a href="https://app.imagine.bo"><b>Imagine.bo</b></a>
+## 💼 Experience
 
-- Building and scaling <a href="https://app.imagine.bo"><b>Imagine.bo</b></a>, a real-world production platform  
-- Developing **end-to-end features** (frontend, backend & APIs)  
-- Integrating **AI-powered features & automation**  
-- Working in a **fast-paced startup environment** with real users  
+### GenAI Intern — SynergyLabs
 
-> *Learning how modern software systems are designed, shipped, and scaled.*
+**May 2025 – May 2026**
 
----
-
-## ⚡ Tech Stack
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-374151?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white)
-
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9333ea?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge)
-
-### Database, Cloud & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-15803d?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0284c7?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+* Contributed to the development and launch of Imagine.bo
+* Built frontend features using React and TypeScript
+* Integrated APIs and AI-powered services
+* Implemented WebSocket-based real-time communication
+* Collaborated with engineering and product teams throughout the development lifecycle
 
 ---
 
-## 🛠️ What I’m Working On
-- 🤖 Applying **AI/ML** to real-world product features  
-- ⚡ Cloud-backed apps using **Firebase**  
-- 🏗️ Backend architecture & API design  
-- 📈 Writing scalable, production-grade code  
+## 🚀 Featured Projects
+
+### Manufacturing Execution System (MES)
+
+**React • Redux • Node.js • Express • MongoDB**
+
+* Built a complete MES platform for managing products, orders, styles, and production workflows
+* Designed REST APIs and database architecture
+* Implemented role-based workflows and production tracking
+
+### AI Video Generator
+
+**Python • Hugging Face • Stable Diffusion • FFmpeg**
+
+* Automatically generates short videos from news headlines
+* Includes script generation, text-to-speech, image generation, and video assembly
+
+### Requirement Analysis & Software Design Generator
+
+**Python • FLAN-T5 • PyTorch**
+
+* Converts high-level software requirements into structured technical specifications
+* Generates modules, schemas, and implementation plans using LLMs
+
+### Personalized AI Assistant
+
+**Python • Speech Recognition • GTTS**
+
+* Voice-controlled assistant capable of executing commands and automating tasks
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 🔬 Research
 
-<img src="https://github-readme-stats.vercel.app/api?username=visheshGupta01&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+Currently collaborating with university faculty on Machine Learning and Remote Sensing research projects involving:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshGupta01&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
----
-
-## 🧩 Most Used Languages
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshGupta01&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+* Dataset preparation
+* Model training and evaluation
+* Computer Vision
+* Predictive Analytics
 
 ---
 
-## 📈 Contribution Activity
-<div align="center">
+## 🛠 Tech Stack
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=visheshGupta01&theme=tokyo-night&hide_border=true" />
+**Languages:** Python, JavaScript, TypeScript, C
 
-</div>
+**Frontend:** React, Redux, Tailwind CSS
 
----
+**Backend:** Node.js, Express.js, Flask
 
-## 🧲 Developer Philosophy
-- Clean code > clever hacks  
-- Shipping > perfection  
-- Systems > shortcuts  
-- Learning > ego  
+**Databases:** MongoDB, MySQL, Firebase, Supabase
 
----
+**AI/ML:** PyTorch, Scikit-Learn, Computer Vision, Hugging Face Transformers
 
-## 📬 Connect With Me
-- 🐙 GitHub: https://github.com/visheshGupta01  
-- 💼 LinkedIn: https://www.linkedin.com/in/vishesh-gupta-2a9636210  
+**Tools:** Git, GitHub, Vercel, Render
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-### ⚠️ Profile Notice
-This profile may contain  
-**production bugs**, **late-night commits**, and  
-**features shipped faster than planned** 😌  
+LinkedIn: linkedin.com/in/vishesh-gupta-2a9636210
 
-⭐ If you value real-world engineering — welcome.
+GitHub: github.com/visheshGupta01
 
-</div>
+Email: [visheshgupta890@gmail.com](mailto:visheshgupta890@gmail.com)
